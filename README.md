@@ -1,5 +1,5 @@
 # S100a4: Database of A/J mouse model and human samples
-Welcome to a repository for storing human and mice scRNA-seq data. We store the data and the relevant code for data analysis for article **S100a4+alveolar macrophages accelerate the progress of precancerous atypical adenomatous hyperplasia by promoting the angiogenic function regulated by fatty acid metabolism.**(https://doi.org/10.7554/eLife.101731.2)
+Welcome to a repository for storing human and mice scRNA-seq data. We store the data in the study **S100a4+alveolar macrophages accelerate the progress of precancerous atypical adenomatous hyperplasia by promoting the angiogenic function regulated by fatty acid metabolism.**(https://doi.org/10.7554/eLife.101731.2)
 
 ## data
 Storing human and mice scRNA-seq data.
